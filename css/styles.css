@@ -112,11 +112,12 @@
   right: 0;
 }
 
-/*#right-checkbox:checked ~ .center .checked {
+#right-checkbox:checked~.center .checked {
   display: block;
   transform: rotate(50deg);
 }
-#right-checkbox:checked ~ .center .unchecked {
+
+/*#right-checkbox:checked ~ .center .unchecked {
   display: none;
 }
 
