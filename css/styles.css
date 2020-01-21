@@ -125,11 +125,11 @@
   opacity: 1;
 }
 
-/*.go-right .sign {
+.go-right .sign {
   opacity: 1;
 }
 
-.go-left ~ .go-right ~ .center > .indeterminate {
+/*.go-left ~ .go-right ~ .center > .indeterminate {
   display: block;
 }
 .go-left ~ .go-right ~ .center > .unchecked {
