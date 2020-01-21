@@ -39,11 +39,11 @@
   cursor: pointer;
 }
 
-/*.wrapper:hover .sign {
+.wrapper:hover .sign {
   opacity: 0.3;
 }
 
-.go-right:hover .sign {
+/*.go-right:hover .sign {
   opacity: 1;
 }
 
