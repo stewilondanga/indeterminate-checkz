@@ -95,10 +95,11 @@
   box-shadow: 1px 1px 3px 0px grey;
 }
 
-/*#left-checkbox {
+#left-checkbox {
   left: 0;
 }
-#left-checkbox:checked ~ .center .checked {
+
+/*#left-checkbox:checked ~ .center .checked {
   display: block;
   transform: rotate(-50deg);
 }
