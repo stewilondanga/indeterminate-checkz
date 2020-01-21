@@ -51,12 +51,12 @@
   opacity: 1;
 }
 
-/*.checkbox {
+.checkbox {
   position: absolute;
   opacity: 0;
 }
 
-.sign {
+/*.sign {
   padding: 1em 1.4em;
   background: #fff;
   border-radius: 3px;
