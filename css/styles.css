@@ -108,10 +108,11 @@
   display: none;
 }
 
-/*#right-checkbox {
+#right-checkbox {
   right: 0;
 }
-#right-checkbox:checked ~ .center .checked {
+
+/*#right-checkbox:checked ~ .center .checked {
   display: block;
   transform: rotate(50deg);
 }
