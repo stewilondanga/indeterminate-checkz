@@ -35,10 +35,11 @@
   align-items: center;
 }
 
-/*.wrapper:hover {
+.wrapper:hover {
   cursor: pointer;
 }
-.wrapper:hover .sign {
+
+/*.wrapper:hover .sign {
   opacity: 0.3;
 }
 
