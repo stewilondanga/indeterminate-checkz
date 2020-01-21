@@ -78,12 +78,12 @@
   font-size: 5em;
 }
 
-/*.center .checked,
+.center .checked,
 .center .indeterminate {
   display: none;
 }
 
-.bubble {
+/*.bubble {
   display: inline-block;
   position: absolute;
   font-size: 0.6em;
