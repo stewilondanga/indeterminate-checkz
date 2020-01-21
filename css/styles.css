@@ -129,10 +129,11 @@
   opacity: 1;
 }
 
-/*.go-left ~ .go-right ~ .center > .indeterminate {
+.go-left~.go-right~.center>.indeterminate {
   display: block;
 }
-.go-left ~ .go-right ~ .center > .unchecked {
+
+/*.go-left ~ .go-right ~ .center > .unchecked {
   display: none;
 }
 
