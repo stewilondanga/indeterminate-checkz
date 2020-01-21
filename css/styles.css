@@ -104,11 +104,11 @@
   transform: rotate(-50deg);
 }
 
-/*#left-checkbox:checked ~ .center .unchecked {
+#left-checkbox:checked~.center .unchecked {
   display: none;
 }
 
-#right-checkbox {
+/*#right-checkbox {
   right: 0;
 }
 #right-checkbox:checked ~ .center .checked {
