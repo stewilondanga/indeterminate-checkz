@@ -133,11 +133,11 @@
   display: block;
 }
 
-/*.go-left ~ .go-right ~ .center > .unchecked {
+.go-left~.go-right~.center>.unchecked {
   display: none;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
