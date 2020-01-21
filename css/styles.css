@@ -43,11 +43,11 @@
   opacity: 0.3;
 }
 
-/*.go-right:hover .sign {
+.go-right:hover .sign {
   opacity: 1;
 }
 
-.go-left:hover .sign {
+/*.go-left:hover .sign {
   opacity: 1;
 }
 
