@@ -47,11 +47,11 @@
   opacity: 1;
 }
 
-/*.go-left:hover .sign {
+.go-left:hover .sign {
   opacity: 1;
 }
 
-.checkbox {
+/*.checkbox {
   position: absolute;
   opacity: 0;
 }
