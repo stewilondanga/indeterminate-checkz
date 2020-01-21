@@ -65,12 +65,12 @@
   transition: opacity 0.3s;
 }
 
-/*.sign .sign-left {
+.sign .sign-left {
   display: inline-block;
   transform: rotate(-180deg);
 }
 
-.center {
+/*.center {
   position: absolute;
   left: 50%;
   top: 50%;
